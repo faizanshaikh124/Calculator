@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(140, 146, 150)
+    background-color: rgb(113, 114, 114)
 
 }
 .heading{
@@ -13,7 +13,7 @@ body{
     height: 400px;
     margin: 80px auto ;
     border-radius: 10px;
-    background-color: rgb(148, 145, 148);
+    background-color: rgb(29, 88, 110);
     box-shadow: 5px 5px 10px #b6a9a9, -5px -5px 10px #b6a9a9, -5px -5px 10px #ffffff ;
 
     
@@ -31,7 +31,7 @@ body{
      font-weight: 600;
      padding: 15px;
      margin: 30px 0 20px 0;
-     box-shadow: inset 2px 2px 5px #8b5b5b, inset -5px -5px 10px #ffffff ; 
+     box-shadow: inset 2px 2px 5px #ffffff, inset -5px -5px 10px #3e3535 ; 
 }
 .button{
     margin: 15px 0 0 5px;
@@ -43,8 +43,8 @@ body{
     height:42px ;
     border-radius: 8%;
     cursor: pointer;
-    background-color: rgb(195, 174, 174);
-    box-shadow: 5px 5px 10px #b6acac, -5px -5px 10px #f4f4f4;
+    background-color: rgb(132, 92, 92);
+    box-shadow: 5px 5px 10px #322c2c, -5px -5px 10px #aa9797;
     display: inline-block;
 
 
